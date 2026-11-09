@@ -1,0 +1,4 @@
+﻿2026-10-11 20:15:00 [NOT TIMEOUT] Token verified for user uid_9821
+2026-10-11 20:15:33 [TIMEOUT] Token verification failed: Signature has expired
+2026-10-11 20:16:01 [TIMEOUT] Redis session store unreachable: ConnectionRefused 6379
+2026-10-11 20:16:45 [NOT TIMEOUT] Fallback to in-memory session cache
